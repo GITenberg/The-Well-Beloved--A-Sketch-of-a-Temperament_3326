@@ -1,0 +1,45 @@
+_repo: The-Well-Beloved--A-Sketch-of-a-Temperament_3326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "The Well-Beloved: A Sketch of a Temperament is a novel by Thomas Hardy,\
+  \ serialized in 1892, and published as a book in 1897.\nThe main setting of the\
+  \ novel, the Isle of Slingers, is based on the Isle of Portland in Dorset, southern\
+  \ England.\nMany of Hardy's novels were set in Dorset. The Well Beloved is one of\
+  \ Hardy's last novels. It was first published in three-part serial form in 1892,\
+  \ and then revised and re-published as a book in 1897, after Hardy's last novel\
+  \ Jude the Obscure (1895). The novel tells the story of the sculptor Jocelyn Pierston's\
+  \ search for the ideal woman, through three generations of a Portland family.\n\
+  A cottage housing what is now part of Portland Museum, on the Isle of Portland,\
+  \ founded by Marie Stopes, a friend of Hardy and his wife, was an inspiration for\
+  \ the book. The cottage acted as the home of Avice, the novel's heroine.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3326'
+  wikidata: Q2906193
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Portland (England) -- Fiction'
+- !lcsh 'Sculptors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: 'The Well-Beloved: A Sketch of a Temperament'
+url: http://www.gutenberg.org/ebooks/3326
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Well-Beloved
+- https://nl.wikipedia.org/wiki/The_Well-Beloved
+- https://es.wikipedia.org/wiki/La_bien_amada

@@ -1,5 +1,8 @@
 _repo: The-Well-Beloved--A-Sketch-of-a-Temperament_3326
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -20,6 +23,8 @@ description: "The Well-Beloved: A Sketch of a Temperament is a novel by Thomas H
   \ founded by Marie Stopes, a friend of Hardy and his wife, was an inspiration for\
   \ the book. The cottage acted as the home of Avice, the novel's heroine.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3326#The-Well-Beloved--A-Sketch-of-a-Temperament
 gutenberg_issued: '2002-07-01'
 gutenberg_type: Text
 identifiers:
